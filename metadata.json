@@ -1,0 +1,13 @@
+{
+  "description": "Minimalist favorites menu button in top panel.\n\n Only 76 lines of code.\n\n No settings.",
+  "name": "Favorites Menu",
+  "shell-version": [
+    "46",
+    "47",
+    "48",
+    "49"
+  ],
+  "url": "https://github.com/fthx/favorites-menu",
+  "uuid": "favorites-menu@fthx",
+  "version": 999
+}
